@@ -1,6 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Video Walkthrough
+
+
+![hangman](https://user-images.githubusercontent.com/63305945/96828615-99338c00-1455-11eb-9f9a-6947bdd74284.gif)
+
+
+
+
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
